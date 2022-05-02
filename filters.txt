@@ -3,5 +3,5 @@
 ! ---------- Generic Blocking Rules ----------
 
 @@||fptplay.net^$important
-masterduelmeta.com##body > div:has-text(-active)
+masterduelmeta.com##.top.is-active
 duellinksmeta.com##.top.is-active
