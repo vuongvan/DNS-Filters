@@ -1,3 +1,5 @@
+! Title: My Custom Filters
+
 @@||fptplay.net^$important
 masterduelmeta.com##body > div:has-text(active)
 ##.active
