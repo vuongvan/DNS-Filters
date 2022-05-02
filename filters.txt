@@ -1,6 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 202205021747
-! Title: My Custom List
+! Version: 20220502
+! Title: Custom Filters
 ! ---------- Generic Blocking Rules ----------
 
 @@||fptplay.net^$important
