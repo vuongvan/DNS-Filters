@@ -4,4 +4,5 @@
 
 @@||fptplay.net^$important
 masterduelmeta.com##body > div:has-text(active)
+duellinksmeta.com##body > div:has-text(active)
 ##.active
