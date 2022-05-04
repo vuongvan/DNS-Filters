@@ -1,0 +1,7 @@
+! Version: 20220502
+! Title: Custom Filters
+! ---------- Generic Blocking Rules ----------
+
+@@||fptplay.net^$important
+masterduelmeta.com##.top.is-active
+duellinksmeta.com##.top.is-active
