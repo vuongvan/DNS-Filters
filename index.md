@@ -15,7 +15,6 @@
       <header>
         <h1><a href="https://github.com/vuongvan/adguard/">Adguard Filters List</a></h1>
       </header>
-      <section>
 <h1 id="start"><strong><em>Safeguard your device(s) against pesky ads, trackers, and malware.</em></strong><br></h1>
 <p align="center">
     <a href="https://github.com/vuongvan/adguard"><img src="https://img.shields.io/github/repo-size/vuongvan/adguard?logo=adblock&style=plastic" alt="repo size"></a>
@@ -27,15 +26,10 @@
 
 <p><h3 align="center"><id="mini"><strong><ins>Adguard Filters List</ins></strong></h3></p>
 <p><table align="center"></p>
-<p><thead></p>
-<p><tr></p>
 <p><th>Client</th></p>
 <p><th>mirror 1</th></p>
 <p><th>mirror 2</th></p>
 </tr>
-</thead></p>
-<p><tbody></p>
-<p><tr></p>
 <p><td>Adguad</td></p>
 <p><td><a href="https://vuongvan.github.io/adguard/filters.txt">view</a></td></p>
 <p><td><button onclick="copyText()">Copy</button></td></p>
@@ -49,12 +43,9 @@
 	</script>
 </tr></p>
 <p><tr></p>
-      </section>
       <footer>
         <p style="text-align:center;"> Maintained with ❤ by <a href="https://github.com/vuongvan">vuongvan</a></p>
       </footer>
     </div>
     <script src="./-data/static/scale.fix.js"></script>
-    
   </body>
-</html>
