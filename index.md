@@ -19,8 +19,8 @@
 			<a href="https://github.com/vuongvan/adguard/commits/master"><img src="https://badgen.net/github/last-commit/vuongvan/adguard?label=Updated&cache=0&color=purple&icon=github" alt="last commit"></a>
 			<a href="https://github.com/vuongvan/adguard"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvuongvan%2Fadguard_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
 		</p>
-		<p><h3 align="center"><id="mini"><strong><ins>Adguard Filters List</ins></strong></h3></p>
-		<p><table align="center"></p>
+		<p><h3 align="center"><strong><ins>Adguard Filters List</ins></strong></h3></p>
+		<table align="center">
 		<p><th>Client</th></p>
 		<p><th>mirror 1</th></p>
 		<p><th>mirror 2</th></p>
@@ -38,6 +38,4 @@
 		  <footer>
 			<p style="text-align:center;"> Maintained with ❤ by <a href="https://github.com/vuongvan">vuongvan</a></p>
 		  </footer>
-    </div>
     <script src="./-data/static/scale.fix.js"></script>
-  </body>
