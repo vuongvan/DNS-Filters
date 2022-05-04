@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vuongvan/DNS-Filters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Adguard Custom Filters List — World's most advanced general-purpose DNS filter-/blocklists!</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link rel="stylesheet" href="./-data/static/style.css">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://github.com/vuongvan/adguard/">Adguard Filters List</a></h1>
+      </header>
+      <section>
+<h1 id="start"><strong><em>Safeguard your device(s) against pesky ads, trackers, and malware.</em></strong><br></h1>
+<p align="center">
+    <a href="https://github.com/vuongvan/adguard"><img src="https://img.shields.io/github/repo-size/vuongvan/adguard?logo=adblock&style=plastic" alt="repo size"></a>
+    <a href="https://github.com/vuongvan/adguard/commits/master"><img src="https://img.shields.io/github/commit-activity/w/vuongvan/adguard?logo=adblock&style=plastic" alt="commit activity"></a>
+    <a href="https://github.com/vuongvan/adguard/commits/master"><img src="https://badgen.net/github/last-commit/vuongvan/adguard?label=Updated&cache=0&color=purple&icon=github" alt="last commit"></a>
+    <a href="https://github.com/vuongvan/adguard"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvuongvan%2Fadguard_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vuongvan/DNS-Filters/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><h3 align="center"><id="mini"><strong><ins>Adguard Filters List</ins></strong></h3></p>
+<p><table align="center"></p>
+<p><thead></p>
+<p><tr></p>
+<p><th>Client</th></p>
+<p><th>mirror 1</th></p>
+<p><th>mirror 2</th></p>
+</tr>
+</thead></p>
+<p><tbody></p>
+<p><tr></p>
+<p><td>Adguad</td></p>
+<p><td><a href="https://vuongvan.github.io/adguard/filters.txt">view</a></td></p>
+<p><td><button onclick="copyText()">Copy</button></td></p>
+<script>
+		function copyText() {
+	
+			/* Copy text into clipboard */
+			navigator.clipboard.writeText
+				("https://vuongvan.github.io/adguard/filters.txt");
+		}
+	</script>
+</tr></p>
+<p><tr></p>
+      </section>
+      <footer>
+        <p style="text-align:center;"> Maintained with ❤ by <a href="https://github.com/vuongvan">vuongvan</a></p>
+      </footer>
+    </div>
+    <script src="./-data/static/scale.fix.js"></script>
+    
+  </body>
+</html>
