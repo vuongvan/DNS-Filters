@@ -21,10 +21,7 @@
 		</p>
 		<p><h3 align="center"><strong><ins>Adguard Filters List</ins></strong></h3></p>
 		<table align="center">
-		<p><th>Client</th></p>
-		<p><th>mirror 1</th></p>
-		<p><th>mirror 2</th></p>
-		<p><td>Adguad</td></p>
+		<p><td>Link</td></p>
 		<p><td><a href="https://vuongvan.github.io/adguard/filters.txt">view</a></td></p>
 		<p><td><button onclick="copyText()">Copy</button></td></p>
 		<script>
