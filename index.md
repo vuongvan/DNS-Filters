@@ -19,7 +19,7 @@
 			<a href="https://github.com/vuongvan/adguard/commits/master"><img src="https://badgen.net/github/last-commit/vuongvan/adguard?label=Updated&cache=0&color=purple&icon=github" alt="last commit"></a>
 			<a href="https://github.com/vuongvan/adguard"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvuongvan%2Fadguard_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>
 		</p>
-		<p><h3 align="center"><strong><ins>Adguard Filters List</ins></strong></h3></p>
+		<p><h3 align="center"><strong><ins>Filters List</ins></strong></h3></p>
 		<table align="center">
 		<p><td>Link</td></p>
 		<p><td><a href="https://vuongvan.github.io/adguard/filters.txt">view</a></td></p>
