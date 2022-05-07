@@ -493,7 +493,7 @@ https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 group-title="VTV CAB" tvg-id="vtvcab1hd" tvg-logo="http://onetv.click/logo/vie-giaitri.jpg",VTVcab1
 #EXTVLCOPT:http-user-agent="TV"
 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 
 
 
