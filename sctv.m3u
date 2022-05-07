@@ -57,13 +57,13 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNK
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VTV CAB" tvg-id="vtvcab21hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/VFamily_%28VTVCab_20%29_logo.png/revision/latest/top-crop/width/300/height/300?cb=20191128010437",VTVcab21
 #EXTVLCOPT:http-user-agent="TV"
-http://phimpcr:PCRtivi@hnhan123.ddns.net:9981/stream/channelid/1323527805?
+#http://phimpcr:PCRtivi@hnhan123.ddns.net:9981/stream/channelid/1323527805?
 #EXTINF:-1 group-title="VTV CAB" tvg-id="vtvcab22hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/VFamily_%28VTVCab_20%29_logo.png/revision/latest/top-crop/width/300/height/300?cb=20191128010437",VTVcab22
 #EXTVLCOPT:http-user-agent="TV"
-http://phimpcr:PCRtivi@hnhan123.ddns.net:9981/stream/channelid/471679833?
+#http://phimpcr:PCRtivi@hnhan123.ddns.net:9981/stream/channelid/471679833?
 #EXTINF:-1 group-title="VTV CAB" tvg-id="vtvcab23hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Golf_Logo_update_150x902.jpg",VTVcab23
 #EXTVLCOPT:http-user-agent="TV"
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+#https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 
 #SCVT
