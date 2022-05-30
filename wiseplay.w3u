@@ -51,10 +51,6 @@
 				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-10"
 				},
 				{
-				"name": "Tập - 10",
-				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-10"
-				},
-				{
 				"name": "Tập - 11",
 				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-11"
 				},
@@ -179,20 +175,62 @@
 		},
 
 		{
-			"name": "TEMPORADA 1",
-			"image":"https://www.latercera.com/wp-content/uploads/2018/04/pablo-900x595.jpg",
+			"name": "Đấu Phá Thương Khung OVA - Hẹn Ước 3 Năm",
+			"image":"https://hoathinh3d.com/wp-content/uploads/2021/10/dau-pha-thuong-khung-ova-3-hen-uoc-3-nam-856.jpg",
 			"stations": 
 			[
-			   {
-					"name":"Pablo viaja a través de un mundo de arte animado que lo ayuda a comprender las cosas que lo confunden al ser un niño con autismo.Con la ayuda de sus amigos animales, Pablo se divierte averiguando sus problemas.Tiene 5 años, adora el arte y le encanta vivir aventuras. Así es Pablo, protagonista de esta ficción. La serie narra la historia de un pequeño que a través de sus dibujos nos transporta hasta el ‘mundo del arte’, un lugar de su imaginación donde cualquier desafío se convierte en una divertida anécdota.",
-					"image":"http://maternidarks.com/wp-content/uploads/2018/04/Key-Art-Pablo-Nat-Geo-Kids-App-tv.jpg"
-			   },
-			   {
-				"name":"52.-Un niño de agua",
-				"image":"http://maternidarks.com/wp-content/uploads/2018/04/Pablo-Nat-Geo-Kids-App-TV-7-413x1024.png",
-				"url":"http://streamcloud.eu/2ftwopukb8i1/Pablo-52-El_chico_de_agua.mp4.html",
-				"isHost":"true"
-			   }
+				{
+				"name": "Tập - 1",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-01-80055.html"
+				},
+				{
+				"name": "Tập - 2",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-02-80056.html"
+				},
+				{
+				"name": "Tập - 3",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-03-80223.html"
+				},
+				{
+				"name": "Tập - 4",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-04-80342.html"
+				},
+				{
+				"name": "Tập - 5",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-05-80462.html"
+				},
+				{
+				"name": "Tập - 6",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-06-80645.html"
+				},
+				{
+				"name": "Tập - 7",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-07-80856.html"
+				},
+				{
+				"name": "Tập - 8",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-08-80939.html"
+				},
+				{
+				"name": "Tập - 9",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-09-81096.html"
+				},
+				{
+				"name": "Tập - 10",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-10-81203.html"
+				},
+				{
+				"name": "Tập - 11",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-11-81261.html"
+				},
+				{
+				"name": "Tập - 12",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-12-81385.html"
+				},
+				{
+				"name": "Tập - 13",
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-13end-81519.html"
+				}
 			]
 		}          
 	]
