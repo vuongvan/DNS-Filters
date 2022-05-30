@@ -176,7 +176,8 @@
 
 		{
 			"name": "Đấu Phá Thương Khung OVA - Hẹn Ước 3 Năm",
-			"image":"https://hoathinh3d.com/wp-content/uploads/2021/10/dau-pha-thuong-khung-ova-3-hen-uoc-3-nam-856.jpg",
+			"image":"https://hoathinh3d.com/wp-content/uploads/2021/10/dau-pha-thuong-khung-ova-3-hen-uoc-3-nam-856-300x450.jpg",
+			"imageScale": "centerCrop",
 			"stations": 
 			[
 				{
