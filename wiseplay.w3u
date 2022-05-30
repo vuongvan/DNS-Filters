@@ -1,0 +1,199 @@
+{
+	"name": "List Phim",
+	"author": "Vuong",
+	"image":"https://seeklogo.com/images/M/movie-time-cinema-logo-8B5BE91828-seeklogo.com.png",
+	"url": "https://vuongvan.github.io/adguard/wiseplay.w3u",
+	"groups": 
+	[
+		{
+			"name": "Thả thí thiên hạ",
+			"image": "https://i.imgur.com/uGLVNN2.jpg",
+			"stations":
+			[
+				{
+				"name": "Tập - 1",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-1"
+				},
+				{
+				"name": "Tập - 2",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-2"
+				},
+				{
+				"name": "Tập - 3",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-3"
+				},
+				{
+				"name": "Tập - 4",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-4"
+				},
+				{
+				"name": "Tập - 5",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-5"
+				},
+				{
+				"name": "Tập - 6",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-6"
+				},
+				{
+				"name": "Tập - 7",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-7"
+				},
+				{
+				"name": "Tập - 8",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-8"
+				},
+				{
+				"name": "Tập - 9",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-9"
+				},
+				{
+				"name": "Tập - 10",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-10"
+				},
+				{
+				"name": "Tập - 10",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-10"
+				},
+				{
+				"name": "Tập - 11",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-11"
+				},
+				{
+				"name": "Tập - 12",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-12"
+				},
+				{
+				"name": "Tập - 13",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-13"
+				},
+				{
+				"name": "Tập - 14",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-14"
+				},
+				{
+				"name": "Tập - 15",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-15"
+				},
+				{
+				"name": "Tập - 16",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-16"
+				},
+				{
+				"name": "Tập - 17",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-17"
+				},
+				{
+				"name": "Tập - 18",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-18"
+				},
+				{
+				"name": "Tập - 19",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-19"
+				},
+				{
+				"name": "Tập - 20",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-20"
+				},
+				{
+				"name": "Tập - 21",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-21"
+				},
+				{
+				"name": "Tập - 22",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-22"
+				},
+				{
+				"name": "Tập - 23",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-23"
+				},
+				{
+				"name": "Tập - 24",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-24"
+				},
+				{
+				"name": "Tập - 25",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-25"
+				},
+				{
+				"name": "Tập - 26",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-26"
+				},
+				{
+				"name": "Tập - 27",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-27"
+				},
+				{
+				"name": "Tập - 28",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-28"
+				},
+				{
+				"name": "Tập - 29",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-29"
+				},
+				{
+				"name": "Tập - 30",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-30"
+				},
+				{
+				"name": "Tập - 31",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-31"
+				},
+				{
+				"name": "Tập - 32",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-32"
+				},
+				{
+				"name": "Tập - 33",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-33"
+				},
+				{
+				"name": "Tập - 34",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-34"
+				},
+				{
+				"name": "Tập - 35",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-35"
+				},
+				{
+				"name": "Tập - 36",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-36"
+				},
+				{
+				"name": "Tập - 37",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-37"
+				},
+				{
+				"name": "Tập - 38",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-38"
+				},
+				{
+				"name": "Tập - 39",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-39"
+				},
+				{
+				"name": "Tập - 40",
+				"url":"https://phimtrung24.com/tha-thi-thien-ha-tranh-thien-ha/tap-40"
+				}
+
+			]
+		},
+
+		{
+			"name": "TEMPORADA 1",
+			"image":"https://www.latercera.com/wp-content/uploads/2018/04/pablo-900x595.jpg",
+			"stations": 
+			[
+			   {
+					"name":"Pablo viaja a través de un mundo de arte animado que lo ayuda a comprender las cosas que lo confunden al ser un niño con autismo.Con la ayuda de sus amigos animales, Pablo se divierte averiguando sus problemas.Tiene 5 años, adora el arte y le encanta vivir aventuras. Así es Pablo, protagonista de esta ficción. La serie narra la historia de un pequeño que a través de sus dibujos nos transporta hasta el ‘mundo del arte’, un lugar de su imaginación donde cualquier desafío se convierte en una divertida anécdota.",
+					"image":"http://maternidarks.com/wp-content/uploads/2018/04/Key-Art-Pablo-Nat-Geo-Kids-App-tv.jpg"
+			   },
+			   {
+				"name":"52.-Un niño de agua",
+				"image":"http://maternidarks.com/wp-content/uploads/2018/04/Pablo-Nat-Geo-Kids-App-TV-7-413x1024.png",
+				"url":"http://streamcloud.eu/2ftwopukb8i1/Pablo-52-El_chico_de_agua.mp4.html",
+				"isHost":"true"
+			   }
+			]
+		}          
+	]
+}
