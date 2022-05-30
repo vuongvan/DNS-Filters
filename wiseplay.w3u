@@ -177,72 +177,71 @@
 		{
 			"name": "Đấu Phá Thương Khung OVA - Hẹn Ước 3 Năm",
 			"image":"https://i.imgur.com/vtvttrv.jpg",
-			"imageScale": "centerCrop",
 			"stations": 
 			[
 				{
 				"name": "Tập - 1",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-01-80055.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-01-80055.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 2",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-02-80056.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-02-80056.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 3",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-03-80223.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-03-80223.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 4",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-04-80342.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-04-80342.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 5",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-05-80462.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-05-80462.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 6",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-06-80645.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-06-80645.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 7",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-07-80856.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-07-80856.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 8",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-08-80939.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-08-80939.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 9",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-09-81096.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-09-81096.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 10",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-10-81203.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-10-81203.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 11",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-11-81261.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-11-81261.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 12",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-12-81385.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-12-81385.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				},
 				{
 				"name": "Tập - 13",
-				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-13end-81519.html"
+				"url":"http://animevietsub.tv/phim/dau-pha-thuong-khung-ova-hen-uoc-3-nam-a4362/tap-13end-81519.html",
 				"userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"
 				}
 			]
