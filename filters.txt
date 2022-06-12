@@ -3,5 +3,5 @@
 ! ---------- Generic Blocking Rules ----------
 
 @@||fptplay.net^$important
-masterduelmeta.com##.top.is-active
+masterduelmeta.com#%#//scriptlet('set-local-storage-item', 'adbViews', '0')
 duellinksmeta.com##.top.is-active
