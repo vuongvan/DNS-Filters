@@ -9,4 +9,4 @@ truyenfull.vn###shoppe_ads_fly
 animevietsub.to##.ad-center-header.Ads
 animevietsub.to###invideo_wrapper
 animevietsub.to###pc-catfixx
-animevietsub.to###mobile-catfixx > div.mb_catfix_adv:nth-child(2)
+animevietsub.to###mobile-catfixx
