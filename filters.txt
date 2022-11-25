@@ -10,3 +10,4 @@ animevietsub.to##.ad-center-header.Ads
 animevietsub.to###invideo_wrapper
 animevietsub.to###pc-catfixx
 animevietsub.to###mobile-catfixx
+animevietsub.to##.header-mobile
