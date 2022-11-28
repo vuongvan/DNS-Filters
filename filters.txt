@@ -6,7 +6,11 @@
 masterduelmeta.com#%#//scriptlet('set-local-storage-item', 'adbViews', '0')
 duellinksmeta.com##.top.is-active
 truyenfull.vn###shoppe_ads_fly
-animevietsub.to###pc-catfixx
-animevietsub.*##.mobile-catfixx
-animevietsub.*##.header-mobile
-animevietsub.*###invideo_wrapper
+*###pc-catfixx
+*##.mobile-catfixx
+*##.header-mobile
+*###invideo_wrapper
+*##.banner-inflow.ff-banner
+*###page > .xads
+*##.fads
+*###ads
