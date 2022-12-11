@@ -10,3 +10,5 @@ animevietsub.*###pc-catfixx
 animevietsub.*##.mobile-catfixx
 animevietsub.*##.header-mobile
 animevietsub.*###invideo_wrapper
+animevietsub.*##.announcement
+animevietsub.me##.announcement
