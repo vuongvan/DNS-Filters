@@ -1,10 +1,8 @@
-! Version: 20221125
+! Version: 20240528
 ! Title: Custom Filters
 ! ---------- Generic Blocking Rules ----------
 
 @@||fptplay.net^$important
-masterduelmeta.com#%#//scriptlet('set-local-storage-item', 'adbViews', '0')
-duellinksmeta.com##.top.is-active
 truyenfull.vn###shoppe_ads_fly
 animevietsub.*###pc-catfixx
 animevietsub.*##.mobile-catfixx
@@ -12,3 +10,7 @@ animevietsub.*##.header-mobile
 animevietsub.*###invideo_wrapper
 animevietsub.*##.announcement
 animevietsub.me##.announcement
+vn.phimhd.ca##div.Container.Main:nth-of-type(1)
+vn.phimhd.ca##.cashfit-ads__container
+
+
